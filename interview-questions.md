@@ -10,7 +10,7 @@ Answer the following questions. First, without external resources. Challenge you
 
 
 
-2. What is a gem?
+2. What does it mean if an application has CRUD? What does CRUD stand for?
 
   Your answer:
 
@@ -18,7 +18,7 @@ Answer the following questions. First, without external resources. Challenge you
 
 
 
-3. Why is it important to have validations in your application?
+3. What is a migration? Why would you use one?
 
   Your answer:
 
@@ -46,7 +46,7 @@ Answer the following questions. First, without external resources. Challenge you
 
 Research and define the following terms to the best of your ability.
 - RESTful routes
-- json
+- JSON
 - API
 - Endpoints
 - Strong params
