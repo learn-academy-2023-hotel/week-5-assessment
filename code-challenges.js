@@ -11,7 +11,7 @@ var secretCodeWord2 = "gobbledygook"
 
 
 
-// --------------------2) Create a function that takes in an array and returns all the words that have the letter a in them.
+// --------------------2) Create a function that takes in an array and returns all the words that contain the letter a.
 
 var arrayOfWords = ["Apple", "Banana", "Plum", "Cherry", "Kiwi", "Peach"]
 // Expected output: "Apple" "Banana" "Peach"
@@ -20,7 +20,7 @@ var arrayOfWords = ["Apple", "Banana", "Plum", "Cherry", "Kiwi", "Peach"]
 
 
 
-// --------------------3) Create a function that takes in an array of 5 numbers and determines whether or not the array is a “full house”. A full house is one pair and one three of a kind.
+// --------------------3) Create a function that takes in an array of 5 numbers and determines whether or not the array is a “full house”. A full house is exactly one pair and one three of a kind.
 
 var hand1 = [5, 5, 5, 3, 3]
 // Expected output: true
