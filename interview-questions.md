@@ -21,7 +21,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 
-3. What is a migration? Why would you use one?
+3. What is a relational database? Are there other kinds of databases?
 
   Your answer:
 
@@ -29,7 +29,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 
-4. Describe as many possible relationships between a model called Person and a model called Computer as you can think of. Based on each description, which model would hold the foreign key?
+4. What are the 5 HTTP verbs? What are they important?
 
   Your answer:
 
@@ -53,7 +53,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 
-7. Why is it important to have validations in your application?
+7. What are primary keys? Why are they important?
 
   Your answer:
 
@@ -66,6 +66,5 @@ Then, research the question to expand on your answer. Even if you feel you have 
 Research and define the following terms to the best of your ability.
 - RESTful routes
 - JSON
-- API
-- Endpoints
+- Validations
 - Strong params
