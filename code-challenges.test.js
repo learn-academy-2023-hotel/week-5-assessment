@@ -37,7 +37,7 @@ var secretCodeWord2 = "gobbledygook"
 // a) Create a test with an expect statement using the variable provided.
 
 var arrayOfWords = ["Apple", "Banana", "Plum", "Cherry", "Kiwi", "Peach"]
-// Expected output: "Apple" "Banana" "Peach"
+// Expected output: ["Apple", "Banana", "Peach"]
 
 
 
