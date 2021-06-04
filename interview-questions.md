@@ -13,7 +13,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 
-2. What does it mean if an application has CRUD? What does CRUD stand for?
+2. What is a relational database? Are there other kinds of databases?
 
   Your answer:
 
@@ -21,7 +21,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 
-3. What is a relational database? Are there other kinds of databases?
+3. What is object-relational mapping?
 
   Your answer:
 
@@ -29,7 +29,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 
-4. What are the 5 HTTP verbs? What are they important?
+4. What is a gem?
 
   Your answer:
 
@@ -37,23 +37,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 
-5. What is object-relational mapping?
-
-  Your answer:
-
-  Researched answer:
-
-
-
-6. What is a gem?
-
-  Your answer:
-
-  Researched answer:
-
-
-
-7. What are primary keys? Why are they important?
+5. What are primary keys? Why are they important?
 
   Your answer:
 
@@ -62,9 +46,14 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 ## Looking Ahead: Terms for Next Week
-
 Research and define the following terms to the best of your ability.
-- RESTful routes
-- JSON
-- Validations
-- Strong params
+
+1. RESTful routes:
+
+2. JSON:
+
+3. Model validations:
+
+4. Strong params:
+
+5. API:

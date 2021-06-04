@@ -15,12 +15,14 @@
 
 // --------------------1) Create a function that takes in a string and returns a coded message. The coded message converts 'a' to 4, 'e' to 3, 'i' to 1, and 'o' to 0.
 
-// a) Create a test with an expect statement using the variable provided.
+// a) Create a test with an expect statement using the variables provided.
 
-var secretCodeWord1 = "lackadaisical"
-// Expected output: "l4ck4d41s1c4l"
-var secretCodeWord2 = "gobbledygook"
-// Expected output: "g0bbl3dyg00k"
+var secretCodeWord1 = "Lackadaisical"
+// Expected output: "L4ck4d41s1c4l"
+var secretCodeWord2 = "Gobbledygook"
+// Expected output: "G0bbl3dyg00k"
+var secretCodeWord3 = "Eccentric"
+// Expected output: "3cc3ntr1c"
 
 
 
@@ -36,8 +38,10 @@ var secretCodeWord2 = "gobbledygook"
 
 // a) Create a test with an expect statement using the variable provided.
 
-var arrayOfWords = ["Apple", "Banana", "Plum", "Cherry", "Kiwi", "Peach"]
-// Expected output: ["Apple", "Banana", "Peach"]
+var arrayOfWords1 = ["Apple", "Banana", "Plum", "Cherry", "Kiwi"]
+// Expected output: ["Apple", "Banana"]
+var arrayOfWords2 = ["Mango", "Orange", "Apricot", "Blueberry", "Peach"]
+// Expected output: ["Mango", "Banana", "Peach"]
 
 
 
