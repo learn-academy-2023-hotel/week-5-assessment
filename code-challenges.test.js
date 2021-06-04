@@ -38,10 +38,10 @@ var secretCodeWord3 = "Eccentric"
 
 // a) Create a test with an expect statement using the variable provided.
 
-var arrayOfWords1 = ["Apple", "Banana", "Plum", "Cherry", "Kiwi"]
-// Expected output: ["Apple", "Banana"]
-var arrayOfWords2 = ["Mango", "Orange", "Apricot", "Blueberry", "Peach"]
-// Expected output: ["Mango", "Banana", "Peach"]
+var arrayOfWords1 = ["Apple", "Banana", "Plum", "Orange", "Kiwi"]
+// Expected output: ["Apple", "Banana", "Orange"]
+var arrayOfWords2 = ["Mango", "Cherry", "Apricot", "Blueberry", "Peach"]
+// Expected output: ["Mango", "Apricot", "Peach"]
 
 
 
