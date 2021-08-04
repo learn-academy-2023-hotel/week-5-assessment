@@ -26,11 +26,7 @@ var secretCodeWord3 = "Eccentric"
 
 
 
-
-
 // b) Create the function that makes the test pass.
-
-
 
 
 
@@ -45,11 +41,7 @@ var arrayOfWords2 = ["Mango", "Cherry", "Apricot", "Blueberry", "Peach"]
 
 
 
-
-
 // b) Create the function that makes the test pass.
-
-
 
 
 
@@ -63,8 +55,6 @@ var hand2 = [5, 5, 3, 3, 4]
 // Expected output: false
 var hand3 = [5, 5, 5, 5, 4]
 // Expected output: false
-
-
 
 
 

@@ -52,8 +52,8 @@ Research and define the following terms to the best of your ability.
 
 2. JSON:
 
-3. Model validations:
+3. ERB:
 
-4. Strong params:
+4. Params:
 
 5. API:
