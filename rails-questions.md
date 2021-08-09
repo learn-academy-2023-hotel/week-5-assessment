@@ -3,7 +3,7 @@
 1. What is SQL?
 
 
-2. What the PostgreSQL query that would return all the content in a particular table?
+2. What is the PostgreSQL query that would return all the content in a particular table?
 
 
 3. What is the command to create a new Rails application with a PostgreSQL database?
