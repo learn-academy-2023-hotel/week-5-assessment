@@ -9,3 +9,4 @@
 - DO NOT merge until your assessment is reviewed
 - Step by step instructions are available [here](https://github.com/LEARNAcademy/Syllabus/blob/main/github/assessments.md)
 - Assessments are due before class on the following Monday
+- Incomplete assessments will not be reviewed

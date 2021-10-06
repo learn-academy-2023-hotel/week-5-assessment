@@ -5,7 +5,7 @@ First, without external resources. Challenge yourself to answer from memory.
 
 Then, research the question to expand on your answer. Even if you feel you have answered the question completely on your own, there is always something more to learn. Write your researched answer in your OWN WORDS.
 
-1. Rails follows an MVC pattern. What does that mean?
+1. Are (most) Ruby methods accessors or mutators?
 
   Your answer:
 
@@ -13,7 +13,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 
-2. What is a relational database? Are there other kinds of databases?
+2. What is a block in Ruby?
 
   Your answer:
 
@@ -21,7 +21,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 
-3. What is object-relational mapping?
+3. What is a gem?
 
   Your answer:
 
@@ -29,7 +29,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 
-4. What is a gem?
+4. What is a relational database? Are there other kinds of databases?
 
   Your answer:
 

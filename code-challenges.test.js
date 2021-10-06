@@ -4,12 +4,11 @@
 // Pseudo coding is REQUIRED
 // If you get stuck, please leave comments to help us understand your thought process
 
-// Add appropriate dependencies to the repository:
-// $ yarn add jest
-
 // Use test driven development to complete the following questions
-// Run the file with the following command:
-// $ yarn jest
+// Add appropriate dependencies: $ yarn add jest
+
+// Reminder: The test will call your function
+// Run the file with the following command: $ yarn jest
 
 // Reminder: The test will call your function
 
@@ -30,14 +29,16 @@ var secretCodeWord3 = "Eccentric"
 
 
 
-// --------------------2) Create a function that takes in an array and returns all the words that contain the letter a.
+// --------------------2) Create a function that takes in an array of words and a single letter and returns all the words that contain that particular letter.
 
 // a) Create a test with an expect statement using the variable provided.
 
 var arrayOfWords1 = ["Apple", "Banana", "Plum", "Orange", "Kiwi"]
+var letterA = "a"
 // Expected output: ["Apple", "Banana", "Orange"]
 var arrayOfWords2 = ["Mango", "Cherry", "Apricot", "Blueberry", "Peach"]
-// Expected output: ["Mango", "Apricot", "Peach"]
+var letterE = "e"
+// Expected output: ["Cherry", "Blueberry", "Peach"]
 
 
 
