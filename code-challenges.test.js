@@ -14,7 +14,7 @@
 
 // --------------------1) Create a function that takes in a string and returns a coded message. The coded message converts 'a' to 4, 'e' to 3, 'i' to 1, and 'o' to 0.
 
-// a) Create a test with an expect statement using the variables provided.
+// a) Create a test with expect statements using the variables provided.
 
 var secretCodeWord1 = "Lackadaisical"
 // Expected output: "L4ck4d41s1c4l"
@@ -31,7 +31,7 @@ var secretCodeWord3 = "Eccentric"
 
 // --------------------2) Create a function that takes in an array of words and a single letter and returns all the words that contain that particular letter.
 
-// a) Create a test with an expect statement using the variable provided.
+// a) Create a test with expects statement using the variable provided.
 
 var arrayOfWords1 = ["Apple", "Banana", "Plum", "Orange", "Kiwi"]
 var letterA = "a"
@@ -48,7 +48,7 @@ var letterE = "e"
 
 // --------------------3) Create a function that takes in an array of 5 numbers and determines whether or not the array is a “full house”. A full house is exactly one pair and one three of a kind.
 
-// a) Create a test with an expect statement using the variable provided.
+// a) Create a test with expect statements using the variable provided.
 
 var hand1 = [5, 5, 5, 3, 3]
 // Expected output: true
