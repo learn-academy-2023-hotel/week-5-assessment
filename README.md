@@ -1,12 +1,15 @@
-# Assessments for Week 5
+# Assessment for Week 5
 
-- Make sure all previous assessments are completed, merged, and branch deleted
+Read all instructions carefully!
+- Step by step instructions are available [here](https://github.com/LEARNAcademy/Syllabus/blob/main/github/assessments.md)
 - Assessment should be accessed through GitHub Classroom
 - Clone the assessment to your local machine
-- **Create a new branch**
+- Create a new branch
 - Complete ALL files
 - Create a Pull Request when complete
-- DO NOT merge until your assessment is reviewed
-- Step by step instructions are available [here](https://github.com/LEARNAcademy/Syllabus/blob/main/github/assessments.md)
-- Assessments are due before class on the following Monday
+- Assessments are due before class starts on the following Monday
+
+---
+- An instructor will review your Pull Request and give you feedback
 - Incomplete assessments will not be reviewed
+- Once your assessment is reviewed, merge and delete your branch

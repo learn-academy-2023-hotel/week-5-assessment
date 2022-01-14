@@ -30,5 +30,6 @@ nums_array2 = [25, 17, 47, 11]
 # -------------------3b) Add the ability to pedal faster and brake. The pedal_faster method should increase the speed by a given amount. The brake method should decrease the speed by a given amount. The bike cannot go negative speeds.
 
 # Expected output example: my_bike.pedal_faster(10) => 10
-# Expected output example: my_bike.pedal_faster(10) => 20
+# Expected output example: my_bike.pedal_faster(18) => 28
+# Expected output example: my_bike.brake(5) => 23
 # Expected output example: my_bike.brake(25) => 0

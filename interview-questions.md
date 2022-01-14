@@ -5,7 +5,7 @@ First, without external resources. Challenge yourself to answer from memory.
 
 Then, research the question to expand on your answer. Even if you feel you have answered the question completely on your own, there is always something more to learn. Write your researched answer in your OWN WORDS.
 
-1. Are (most) Ruby methods accessors or mutators?
+1. What is a block in Ruby?
 
   Your answer:
 
@@ -13,7 +13,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 
-2. What is a block in Ruby?
+2. What is a gem?
 
   Your answer:
 
@@ -21,7 +21,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 
-3. What is a gem?
+3. What is Ruby on Rails?
 
   Your answer:
 

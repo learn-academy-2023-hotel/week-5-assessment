@@ -10,17 +10,16 @@
 // Reminder: The test will call your function
 // Run the file with the following command: $ yarn jest
 
-// Reminder: The test will call your function
 
 // --------------------1) Create a function that takes in a string and returns a coded message. The coded message converts 'a' to 4, 'e' to 3, 'i' to 1, and 'o' to 0.
 
 // a) Create a test with expect statements using the variables provided.
 
-var secretCodeWord1 = "Lackadaisical"
+const secretCodeWord1 = "Lackadaisical"
 // Expected output: "L4ck4d41s1c4l"
-var secretCodeWord2 = "Gobbledygook"
+const secretCodeWord2 = "Gobbledygook"
 // Expected output: "G0bbl3dyg00k"
-var secretCodeWord3 = "Eccentric"
+const secretCodeWord3 = "Eccentric"
 // Expected output: "3cc3ntr1c"
 
 
@@ -33,11 +32,11 @@ var secretCodeWord3 = "Eccentric"
 
 // a) Create a test with expects statement using the variable provided.
 
-var arrayOfWords1 = ["Apple", "Banana", "Plum", "Orange", "Kiwi"]
-var letterA = "a"
+const arrayOfWords1 = ["Apple", "Banana", "Plum", "Orange", "Kiwi"]
+const letterA = "a"
 // Expected output: ["Apple", "Banana", "Orange"]
-var arrayOfWords2 = ["Mango", "Cherry", "Apricot", "Blueberry", "Peach"]
-var letterE = "e"
+const arrayOfWords2 = ["Mango", "Cherry", "Apricot", "Blueberry", "Peach"]
+const letterE = "e"
 // Expected output: ["Cherry", "Blueberry", "Peach"]
 
 
@@ -50,11 +49,11 @@ var letterE = "e"
 
 // a) Create a test with expect statements using the variable provided.
 
-var hand1 = [5, 5, 5, 3, 3]
+const hand1 = [5, 5, 5, 3, 3]
 // Expected output: true
-var hand2 = [5, 5, 3, 3, 4]
+const hand2 = [5, 5, 3, 3, 4]
 // Expected output: false
-var hand3 = [5, 5, 5, 5, 4]
+const hand3 = [5, 5, 5, 5, 4]
 // Expected output: false
 
 
