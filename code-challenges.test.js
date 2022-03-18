@@ -23,9 +23,7 @@ const secretCodeWord3 = "Eccentric"
 // Expected output: "3cc3ntr1c"
 
 
-
 // b) Create the function that makes the test pass.
-
 
 
 // --------------------2) Create a function that takes in an array of words and a single letter and returns all the words that contain that particular letter.
@@ -40,9 +38,7 @@ const letterE = "e"
 // Expected output: ["Cherry", "Blueberry", "Peach"]
 
 
-
 // b) Create the function that makes the test pass.
-
 
 
 // --------------------3) Create a function that takes in an array of 5 numbers and determines whether or not the array is a “full house”. A full house is exactly one pair and one three of a kind.
@@ -55,7 +51,6 @@ const hand2 = [5, 5, 3, 3, 4]
 // Expected output: false
 const hand3 = [5, 5, 5, 5, 4]
 // Expected output: false
-
 
 
 // b) Create the function that makes the test pass.
