@@ -1,7 +1,7 @@
 # ASSESSMENT 5: Ruby Coding Practical Questions
 # MINASWAN
 
-# --------------------1) Create a method that takes in an array of words and a single letter and returns all the words that contain that particular letter.
+# --------------------1) Create a method that takes in an array of words and a single letter and returns an array of all the words containing that particular letter.
 
 beverages_array = ['coffee', 'tea', 'juice', 'water', 'soda water']
 

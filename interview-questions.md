@@ -1,4 +1,5 @@
 # ASSESSMENT 5: Interview Practice Questions
+
 Answer the following questions.
 
 First, without external resources. Challenge yourself to answer from memory.
@@ -7,45 +8,36 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 1. What is a hash in Ruby?
 
-  Your answer:
+Your answer:
 
-  Researched answer:
-
-
+Researched answer:
 
 2. What is a gem?
 
-  Your answer:
+Your answer:
 
-  Researched answer:
-
-
+Researched answer:
 
 3. What is Ruby on Rails?
 
-  Your answer:
+Your answer:
 
-  Researched answer:
-
-
+Researched answer:
 
 4. What is a relational database? Are there other kinds of databases?
 
-  Your answer:
+Your answer:
 
-  Researched answer:
-
-
+Researched answer:
 
 5. What are primary keys? Why are they important?
 
-  Your answer:
+Your answer:
 
-  Researched answer:
-
-
+Researched answer:
 
 ## Looking Ahead: Terms for Next Week
+
 Research and define the following terms to the best of your ability.
 
 1. RESTful routes:

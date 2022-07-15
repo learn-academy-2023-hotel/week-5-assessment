@@ -26,14 +26,14 @@ const secretCodeWord3 = "Eccentric"
 // b) Create the function that makes the test pass.
 
 
-// --------------------2) Create a function that takes in an array of words and a single letter and returns all the words that contain that particular letter.
+// --------------------2) Create a function that takes in an array of words and a single letter and returns an array of all the words containing that particular letter.
 
 // a) Create a test with expects statement using the variable provided.
 
-const arrayOfWords1 = ["Apple", "Banana", "Plum", "Orange", "Kiwi"]
+const fruitArray = ["Mango", "Cherry", "Apricot", "Blueberry", "Peach", "Kiwi"]
+
 const letterA = "a"
-// Expected output: ["Apple", "Banana", "Orange"]
-const arrayOfWords2 = ["Mango", "Cherry", "Apricot", "Blueberry", "Peach"]
+// Expected output: ["Mango", "Apricot", "Peach"]
 const letterE = "e"
 // Expected output: ["Cherry", "Blueberry", "Peach"]
 
