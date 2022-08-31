@@ -1,7 +1,7 @@
 # ASSESSMENT 5: Ruby Coding Practical Questions
 # MINASWAN
 
-# --------------------1) Create a method that takes in an array of words and a single letter and returns an array of all the words containing that particular letter.
+# --------------------1) Create a method that takes in an array of words and a single letter and returns an array of all the words containing that particular letter. Use the test variables provided.
 
 beverages_array = ['coffee', 'tea', 'juice', 'water', 'soda water']
 
@@ -11,14 +11,11 @@ letter_t = 't'
 # Expected output: ['tea', 'water', 'soda water']
 
 
-# -------------------2) Create a method that takes in an array of numbers and returns the sum of the numbers. Use the test variables provided.
+# -------------------2) Create a method that takes in a hash and returns one array with all the hash values at their own index and in alphabetical order. No nested arrays. Use the test variable provided.
+# HINT: Google 'ruby get rid of nested arrays'
 
-nums_array1 = [42, 7, 27]
-# Expected output: 76
-
-nums_array2 = [25, 17, 47, 11]
-# Expected output: 100
-
+us_states = { northwest: ['Washington', 'Oregon', 'Idaho'], southwest: ['California', 'Arizona', 'Nevada'], notheast: ['Maine', 'New Hampshire', 'Vermont'] }
+# Expected output: ['Arizona', 'California', 'Idaho', 'Maine', 'Nevada', 'New Hampshire', 'Oregon', 'Vermont', 'Washington'] 
 
 
 # --------------------3a) Create a class called Bike that is initialized with a model, wheels, and current_speed. The default number of wheels is 2. The current_speed should start at 0. Create a bike_info method that returns a sentence with all the data from the bike object.

@@ -10,7 +10,6 @@
 // Reminder: The test will call your function
 // Run the file with the following command: $ yarn jest
 
-
 // --------------------1) Create a function that takes in a string and returns a coded message. The coded message converts 'a' to 4, 'e' to 3, 'i' to 1, and 'o' to 0.
 
 // a) Create a test with expect statements using the variables provided.
@@ -22,9 +21,7 @@ const secretCodeWord2 = "Gobbledygook"
 const secretCodeWord3 = "Eccentric"
 // Expected output: "3cc3ntr1c"
 
-
 // b) Create the function that makes the test pass.
-
 
 // --------------------2) Create a function that takes in an array of words and a single letter and returns an array of all the words containing that particular letter.
 
@@ -37,9 +34,7 @@ const letterA = "a"
 const letterE = "e"
 // Expected output: ["Cherry", "Blueberry", "Peach"]
 
-
 // b) Create the function that makes the test pass.
-
 
 // --------------------3) Create a function that takes in an array of 5 numbers and determines whether or not the array is a “full house”. A full house is exactly one pair and one three of a kind.
 
@@ -51,6 +46,7 @@ const hand2 = [5, 5, 3, 3, 4]
 // Expected output: false
 const hand3 = [5, 5, 5, 5, 4]
 // Expected output: false
-
+const hand4 = [7, 2, 7, 2, 7]
+// Expected output: true
 
 // b) Create the function that makes the test pass.
