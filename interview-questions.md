@@ -6,13 +6,13 @@ First, without external resources. Challenge yourself to answer from memory.
 
 Then, research the question to expand on your answer. Even if you feel you have answered the question completely on your own, there is always something more to learn. Write your researched answer in your OWN WORDS.
 
-1. What is a hash in Ruby?
+1. What is a gem?
 
 Your answer:
 
 Researched answer:
 
-2. What is a gem?
+2. What does the acronym CRUD stand for?
 
 Your answer:
 
