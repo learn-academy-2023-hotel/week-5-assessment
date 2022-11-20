@@ -10,7 +10,7 @@
 // Reminder: The test will call your function
 // Run the file with the following command: $ yarn jest
 
-// --------------------1) Create a function that takes in a string and returns a coded message. The coded message converts "a" to 4, "e" to 3, "i" to 1, and "o" to 0.
+// --------------------1) Create a function that takes in a string and returns a string with a coded message. The coded message converts "a" to 4, "e" to 3, "i" to 1, and "o" to 0.
 
 // a) Create a test with expect statements using the variables provided.
 
