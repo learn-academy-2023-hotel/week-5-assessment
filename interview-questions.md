@@ -42,10 +42,10 @@ Research and define the following terms to the best of your ability.
 
 1. RESTful routes:
 
-2. Ruby on Rails:
+2. Model validations:
 
-3. Database migrations:
+3. Params:
 
-4. Params:
+4. ERB:
 
-5. ERB:
+5. API:
