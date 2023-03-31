@@ -40,12 +40,12 @@ Researched answer:
 
 Research and define the following terms to the best of your ability.
 
-1. RESTful routes:
+1. Model validations:
 
-2. Model validations:
+2. RESTful routes:
 
-3. Params:
+3. ERB:
 
-4. ERB:
+4. Params:
 
 5. API:
