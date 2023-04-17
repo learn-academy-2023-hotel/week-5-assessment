@@ -24,13 +24,13 @@ Your answer:
 
 Researched answer:
 
-4. What are primary keys? Why are they important?
+4. What are primary keys? Why purpose does a primary key serve?
 
 Your answer:
 
 Researched answer:
 
-5. What are the HTTP verbs? What is each verb's corresponding CRUD action?
+5. What are the five HTTP verbs? What is each verb's corresponding CRUD action?
 
 Your answer:
 

@@ -29,9 +29,9 @@ const secretCodeWord3 = "Eccentric"
 
 const fruitArray = ["Mango", "Cherry", "Apricot", "Blueberry", "Peach", "Kiwi"]
 
-const letterA = "a"
+const filterLetterA = "a"
 // Expected output: ["Mango", "Apricot", "Peach"]
-const letterE = "e"
+const filterLetterE = "e"
 // Expected output: ["Cherry", "Blueberry", "Peach"]
 
 // b) Create the function that makes the test pass.

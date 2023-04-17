@@ -5,9 +5,9 @@
 
 beverages_array = ['coffee', 'tea', 'juice', 'water', 'soda water']
 
-letter_o = 'o'
+filter_letter_o = 'o'
 # Expected output: ['coffee', 'soda water']
-letter_t = 't'
+filter_letter_t = 't'
 # Expected output: ['tea', 'water', 'soda water']
 
 
