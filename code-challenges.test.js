@@ -38,9 +38,9 @@ const filterLetterE = "e"
 
 // b) Create the function that makes the test pass.
 
-// --------------------3) Create a function that takes in an array of 5 numbers and determines whether or not the array is a "full house". A full house is exactly one pair and one three of a kind.
-
 // Pseudo code:
+
+// --------------------3) Create a function that takes in an array of 5 numbers and determines whether or not the array is a "full house". A full house is exactly one pair and one three of a kind.
 
 // a) Create a test with expect statements using the variable provided.
 
