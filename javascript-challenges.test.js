@@ -25,22 +25,7 @@ const secretCodeWord3 = "Eccentric"
 
 // Pseudo code:
 
-// --------------------2) Create a function that takes in an array of words and a single letter and returns an array of all the words containing that particular letter.
-
-// a) Create a test with expects statement using the variable provided.
-
-const fruitArray = ["Mango", "Cherry", "Apricot", "Blueberry", "Peach", "Kiwi"]
-
-const filterLetterA = "a"
-// Expected output: ["Mango", "Apricot", "Peach"]
-const filterLetterE = "e"
-// Expected output: ["Cherry", "Blueberry", "Peach"]
-
-// b) Create the function that makes the test pass.
-
-// Pseudo code:
-
-// --------------------3) Create a function that takes in an array of 5 numbers and determines whether or not the array is a "full house". A full house is exactly one pair and one three of a kind.
+// --------------------2) Create a function that takes in an array of 5 numbers and determines whether or not the array is a "full house". A full house is exactly one pair and one three of a kind.
 
 // a) Create a test with expect statements using the variable provided.
 
